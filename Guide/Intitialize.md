@@ -1,4 +1,4 @@
-# Initializing git in your desktop
+# Initializing git and project in your desktop
 - Steps :
 
         - name a folder as "Webspace"
@@ -9,13 +9,13 @@
                 git add .
                 git commit -m "initial commit"
                 git remote add origin https://github.com/Sandeep-XD/Webspace.git
-                git pull origin 
+                git pull origin master
                 git push -u origin master
 
 # Installing dependency
 
 - Steps :   
-
+        
         -for installing tailwind
         -in terminal the following commend
             
