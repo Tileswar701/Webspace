@@ -1,6 +1,7 @@
 import React from 'react'
 import Card from '../../../components/Cards/card2/Card'
 import { useState } from 'react'
+import Form from '../../../components/Forms/form1/Form'
 
 const Body = () => {
     // const [cards, setCard] = useState({
@@ -25,8 +26,8 @@ const Body = () => {
             logoPath= {cards.logoPath}
             />
         </div> */}
-        <div className="test">
-            <Card/>
+        <div className="test bg-white">
+            <Form />
         </div>
     </>
   )
