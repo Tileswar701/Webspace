@@ -2,7 +2,7 @@
 
 ## common git commend
 
-- To push your update to github repo
+- To push your update into github repo
 
         git add .
         git commit -m "message"
@@ -25,9 +25,13 @@
 
 - Git Branches
 
+        to see all the available branches
+
             git branch
+        
             git checkout -b <branch-name>
             git checkout <branch-name>
+
 - Git Merge
 
             git merge <branch-name>
@@ -38,6 +42,7 @@
             git remote -v
             git remote remove origin
             git remote set-url origin <repository-url>
+            
 - Git Stash
 
             git stash

@@ -3,7 +3,7 @@
 
         - name a folder as "Webspace"
         - open that folder in vs code.
-        - in terminal the following commend
+        - in terminal run the following commend
                 
                 git init
                 git add .
@@ -17,7 +17,7 @@
 - Steps :   
         
         -for installing tailwind
-        -in terminal the following commend
+        -in terminal run the following commend
             
             npm install
             npm install -D tailwindcss postcss autoprefixer
@@ -26,6 +26,6 @@
 # Deploying server in local host
 - Steps :
         
-        -in terminal the following commend
+        -in terminal run the following commend
             
             npm run dev
