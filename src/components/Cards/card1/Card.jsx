@@ -5,7 +5,7 @@ const Card = (card) => {
   }
   return (
     <>
-      <div className="container max-w-[260px] my-1 sm:max-w-full">
+      <div className="container max-w-[260px] my-1 sm:max-w-[820px]">
         <div className="card hover:cursor-pointer flex-col items-center sm:flex-row" onClick={clicked} >
           <div className="card-Image">
             <img className='card-img' src={card.thumbnailPath} alt="Card" />
